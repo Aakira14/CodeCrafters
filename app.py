@@ -34,8 +34,16 @@ def hello_world():
 
 
 
+
 @app.route('/inner/stylesheet/style_index.html.css')
 def style_index():
     global cwd, project_dir
     return send_file(
         f'/home/RahulP/CodeCrafters/stylesheets/style_index.html.css')
+
+
+@app.route('/images/codecrafters_pr.png')
+def codecrafters_pr_png():
+    global cwd, project_dir
+    return send_file(
+        f'/home/RahulP/CodeCrafters/images/codecrafters_pr.png')

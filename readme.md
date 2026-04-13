@@ -1,13 +1,22 @@
 # The CodeCrafters
 
-## Abstract
+## Team Brainstorming
+Planning is well documented in [CodeCrafters_steminate Planning](https://docs.google.com/document/d/1DJAAY-Gr5SUQTV3hp6u0bYbxgRa1WvIyKnyuQeY4MTg/edit?usp=sharing).
+
+## Team To-Do list
+- [x] ~~4th member issue resolved~~
+- [ ] 15/04/2026 General overiew meeting
+- [x] Next meeting agendas documented in planning doc
+
+
+### Abstract
 1. Team was formed on 11/04/2026, 21:30 IST.
 2. Roles are mentioned in roles.md
 3. All intermediate ppts, designs, sketches, future plans, notes will be saved in this repository.
 4. Common public server is provided by pythonanywhere.com (something free?).
 5. Running (Est. 13/04/2026, 2:04 IST) project website: https://rahulp.pythonanywhere.com
 
-## Team Members
+### Team Members
 1. [Rahul Pagare](https://github.com/RahulPagare20)
 2. [Akhira Khot](https://github.com/aakira14)
 3. Joyden Kongs

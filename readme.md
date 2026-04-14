@@ -5,8 +5,9 @@ Planning is well documented in [CodeCrafters_steminate Planning](https://docs.go
 
 ## Team To-Do list
 - [x] ~~4th member issue resolved~~
-- [ ] 15/04/2026 General overiew meeting
 - [x] Next meeting agendas documented in planning doc
+- [ ] 15/04/2026 General overiew meeting with Rahul and Aakira. Joyden couldn't join!
+- [ ] 18/04/2026 General overiew meeting with Joyden and Aakira. Rahul couldn't join!
 
 
 ### Abstract

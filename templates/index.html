@@ -81,6 +81,7 @@
       <td><h3 class="card-text text-white" style="font-family: 'Delius'">Rahul Pagare</h3></td>
       <td><a class="text-white" style="font-family: 'Vend Sans'" href="https://github.com/RahulPagare20">Github</a></td>
       <td><a class="text-white" style="font-family: 'Vend Sans'" href="https://devpost.com/RahulPagare20">Devpost</a></td>
+      <!-- <td><p class="lead text-white">Back-end Dev.*</p></td> -->
       <td><p class="lead text-white">Back-end Dev.*</p></td>
     </tr>
     <tr>
@@ -105,7 +106,7 @@
 
             </div>
         </div>
-        <hr class="animated-line">
+            <hr class="animated-line">
     </div>
 
 
@@ -146,7 +147,8 @@
 
 
 <script>
-    // add script
+const popoverTriggerList = document.querySelectorAll('[data-bs-toggle="popover"]')
+const popoverList = [...popoverTriggerList].map(popoverTriggerEl => new bootstrap.Popover(popoverTriggerEl))
 </script>
 
 
